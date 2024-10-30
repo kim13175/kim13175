@@ -1,11 +1,6 @@
 # kim13175
 
 ### :sunglasses:프론트 엔드 개발자 꿈나무
-```
-똥물을 맞든 맥주병을 맞든 우리는 끝까지 가는 기다 알았나
-
-                                                                            - 퍼펙트 게임 중 -
-```
 ---
 ### my history
 [![kim13175's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim13175)](https://github.com/kim13175/github-readme-stats)
