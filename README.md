@@ -7,7 +7,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim1315)](https://solved.ac/kim1315/)
 
 ### my page
-<a href="https://beomcoding.notion.site/BEOMJO-S-PAGE-c8dbd85923b64853a6a373a50fb956c9" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-sequare&logo=Notion&logoColor=white"/></a>
+<a href="https://https://beomcoding.notion.site/BEOMJO-S-PAGE-c8dbd85923b64853a6a373a50fb956c9?pvs=74" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-sequare&logo=Notion&logoColor=white"/></a>
 <a href="https://velog.io/@kim13175/posts" target="_blank"><img src="https://img.shields.io/badge/velog-3DDC84?style=flat-sequare&logo=velog&logoColor=white"/></a>
 ### my language & platform
 <span><img src="https://img.shields.io/badge/python-3776AB?style=flat-sequeare&logo=python&logoColor=white"></span>
